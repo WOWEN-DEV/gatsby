@@ -35,7 +35,7 @@ const listItemStyles = {
 }
 
 const linkStyle = {
-  color: "#8954A8",
+  color: "#088413",
   fontWeight: "bold",
   fontSize: 16,
   verticalAlign: "5%",
@@ -133,7 +133,7 @@ const IndexPage = () => {
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time. 😎
+        update in real-time. 😎 😀
       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
